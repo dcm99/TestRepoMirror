@@ -1,6 +1,2 @@
 # TestRepoMirror
-some changes in Readme
-Test
-
-1234
-5.7.2022
+This Project is for testing only
